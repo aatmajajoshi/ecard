@@ -11,7 +11,7 @@
 
 ## Table of Contents 📒
 
-- [Introduction 👋](#introduction)
+- [Introduction👋](#introduction)
 - [Vision 👋](#vision)
 - [Features 🌟](#features)
 - [Technology Used 📡](#tech)
@@ -70,7 +70,7 @@ We welcome contributions from the community! If you'd like to contribute to Svan
 <img src="https://imgur.com/wuiJXqr.png"/>
 *Thank you for being a part of the monitor project.*
 
-*And dont forget to give star to repo*
+*And don't forget to give a star to the repo*
 
 *For more information join monitor descord server* [monitor server](https://discord.gg/JK4qnXSZ)
 
